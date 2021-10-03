@@ -1,0 +1,22 @@
+Hi, in this video i will demonstrate how to run my application...
+
+1)- use link to my github repository and download everything from it
+2)- copy link to the directory where you have saved the folder from
+    github
+3)- now open jupyter notebook using anaconda
+    I have opened jupyter notebook in same director where i had my 
+    downloaded files.
+4)- here, you can find two notebooks named 'Model_Train' and 'app'
+    'Model_Train' contains my code for making ML model and the 
+    evaluation matrices
+    'app' contains code for my web application
+5)- now you have to change the path variable to the directory link 
+    which you copied in step 2.
+    Now you are ready to use these files. please ensure that to run 
+    these files you have python on your machine and have libraries:
+    tensorflow, keras, numpy, panadas, sklearn, and other which are in 
+    my notebooks.
+6)- Now, open 'app' and run the cells
+7)- you can see my model making process from 'Model_Train' notebook
+
+Thank You
