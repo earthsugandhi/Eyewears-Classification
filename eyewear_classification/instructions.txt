@@ -1,0 +1,13 @@
+Hi, in this video i will demonstrate, how to run my application
+
+1)- use link to my github repo, and download everything from it
+    to your computer.
+2)- now open jupyter notebook using anaconda..
+3)- there are 2 notebooks named 'Model_Train' and 'app'
+    'Model_Train' contains code for making my model for both the
+     tasks
+     'app' contains code to run my application on local host
+4)-  first i will show my web application:
+      open 'app'
+5)- copy the directory address for the folder where you have saved
+  
